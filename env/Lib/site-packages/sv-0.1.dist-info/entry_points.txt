@@ -1,0 +1,2 @@
+[console_scripts]
+sv = sv:cli
